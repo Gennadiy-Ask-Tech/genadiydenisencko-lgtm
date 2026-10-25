@@ -21,12 +21,12 @@ Frontend developer and web layout designer. Dedicated to creating clean, modern,
 
 ## 📂 Навыки и особенности работы / Skills & Workflow
 
-### 🇷🇺 На русском:
+### 🇷🇺:
 * **Адаптивная верстка:** Сайты одинаково красиво отображаются на экранах смартфонов, планшетов и ПК.
 * **Семантический код:** Использую современные стандарты тегов для правильного SEO-продвижения.
 * **Чистый код по БЭМ:** Мой код легко читать, поддерживать и масштабировать.
 
-### 🇬🇧 In English:
+### 🇬🇧:
 * **Responsive Web Design:** Sites look beautiful and function flawlessly across all devices (mobiles, tablets, desktops).
 * **Semantic HTML:** Implementation of modern web standards ensuring proper SEO structure.
 * **Clean Code with BEM:** Well-organized, readable, and highly maintainable code.
